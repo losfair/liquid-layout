@@ -1,10 +1,11 @@
 [package]
 name = "liquid-layout"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Heyang Zhou <zhy20000919@hotmail.com>"]
 edition = "2018"
 license = "MIT"
-description = "A layout engine that solves UI constraints using the Z3 solver."
+description = "A layout engine that solves UI constraints using the Z3 prover."
+repository = "https://github.com/losfair/liquid-layout"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
